@@ -1,0 +1,16 @@
+{
+  "name": "gitbash",
+  "version": "1.0.0",
+  "description": "this is for practice purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "bootstrap": "^5.3.2",
+    "bootswatch": "^5.3.2"
+  }
+}
